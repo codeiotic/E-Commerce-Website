@@ -1,11 +1,11 @@
 # E-Commerce-Website
 
-This is simple E-Commerce-Website which I created!
+This Website is currently in progress and not yet finished.
 <br>
-This website is fully mobile responsive! Try it out.
+I will deploy this website once it is finished.
 <br>
-If you liked this website, please like this repository!
+I will also put the link to it in the ReadME and make this ReadME proper.
 <br>
-Thanks for viewing this repository!
+Till then feel free to contribure to this open-source project!
 <br>
 <a href="https://proprogrammer2504.github.io/">This is my website here!</a>
